@@ -1,4 +1,4 @@
 # Whitefox
-A Mac compatible configuration for the Whitefox keyboard.
+A Mac compatible configuration for the WhiteFox keyboard.
 
-![Whitefox Layout](https://github.com/kortsmit/whitefox/raw/master/assets/layout.jpg "Whitefox Layout")
+![WhiteFox Layout](https://github.com/kortsmit/whitefox/raw/master/assets/layout.jpg "WhiteFox Layout")
