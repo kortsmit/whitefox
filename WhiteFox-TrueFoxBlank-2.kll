@@ -1,0 +1,18 @@
+Name = "WhiteFox";
+Layout = "TrueFoxBlank";
+Base = "AllBlank";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2016-05-30";
+Generator = "KIICONF 0.2";
+
+U"1" : CONS"FILEBROWSER";
+U"2" : CONS"INTERNETBROWSER";
+U"3" : CONS"CALCULATOR";
+U"MINUS" : CONS"BRIGHTNESSDECREMENT";
+U"EQUAL" : CONS"BRIGHTNESSINCREMENT";
+U"DELETE" : ledControl( 5, 0, 0 );
+U"PAGEUP" : ledControl( 4, 15, 0 );
+U"PAGEDOWN" : ledControl( 3, 15, 0 );
+
