@@ -6,6 +6,7 @@ Author = "HaaTa (Jacob Alexander) 2015";
 KLL = "0.3c";
 Date = "2016-05-30";
 Generator = "KIICONF 0.2";
+Variant = "";
 
 U"1" : U"F1";
 U"2" : U"F2";

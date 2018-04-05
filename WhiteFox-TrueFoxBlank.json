@@ -7,8 +7,12 @@
         "Author": "HaaTa (Jacob Alexander) 2015",
         "KLL": "0.3c",
         "Date": "2016-05-30",
-        "Generator": "KIICONF 0.2"
+        "Generator": "KIICONF 0.2",
+        "Variant": ""
     },
+    "defines": [
+
+    ],
     "matrix": [
         {
             "code": "0x00",
@@ -488,8 +492,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "DELETE",
+                    "label": "DEL"
                 },
                 "1": {
                     "key": "CONS:MUTE",
@@ -902,8 +906,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -915,8 +919,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
