@@ -5,9 +5,9 @@ A Mac compatible configuration for the WhiteFox keyboard.
 
 ## Mac Installation Instructions (Command-line)
 
-1. Open a terminal
-2. `brew install dfu-util`
-3. Press the flash button (orange led will turn on)
-4. Flash using `dfu-util -D`
+1. `brew install dfu-util`
+2. Press the flash button on the bottom of the keyboard
+3. Navigate to the directory you downloaded the firmware to
+4. Flash using `dfu-util -D kiibohd.dfu.bin`
 5. Orange led will turn off
-6. Keyboard is ready to go
+6. Keyboard is ready to go!
