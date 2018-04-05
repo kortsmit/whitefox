@@ -3,7 +3,7 @@ A Mac compatible configuration for the WhiteFox keyboard.
 
 ![WhiteFox Layout](https://github.com/kortsmit/whitefox/raw/master/assets/layout.jpg "WhiteFox Layout")
 
-## Mac Installation Instructions (Command-line)
+## Mac Installation Instructions
 
 1. `brew install dfu-util`
 2. Press the flash button on the bottom of the keyboard
