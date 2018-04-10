@@ -1,7 +1,7 @@
-# WhiteFox
-A Mac compatible configuration for the WhiteFox keyboard.
+# WhiteFox and NightFox
+A Mac compatible configuration for the WhiteFox and NightFox keyboards. I use this layout on both my WhiteFox and NightFox. Feel free to [open an issue](https://github.com/kortsmit/whitefox/issues/new) if you have any suggestions!
 
-![WhiteFox Layout](https://github.com/kortsmit/whitefox/raw/master/assets/layout.jpg "WhiteFox Layout")
+![WhiteFox and NightFox Layout](https://github.com/kortsmit/whitefox/raw/master/assets/layout.jpg "WhiteFox and NightFox Layout")
 
 ## Mac Installation Instructions
 
